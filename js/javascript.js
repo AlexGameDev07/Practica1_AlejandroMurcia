@@ -1,0 +1,3 @@
+function IniciarSesión(){
+alert("Bienvenido")
+}
